@@ -195,7 +195,7 @@ class ProctoringApp:
 
     def update_statistics_display(self):
         if self.total_exam_time <= 0:
-            self.stats_label_right.config(text="Recopilando datos...")
+            self.stats_label_left.config(text="Recopilando datos...")
             self.stats_label_right.config(text="")
             return
 
