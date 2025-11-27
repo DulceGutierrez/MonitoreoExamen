@@ -21,9 +21,10 @@ La aplicación fue desarrollada en Python utilizando OpenCV para la detección d
 
 ```bash
 git clone https://github.com/DulceGutierrez/MonitoreoExamen.git
+```
+
 
 ## Uso
-
 Para ejecutar el sistema de monitoreo, solo corre el siguiente comando en la terminal:
 
 ```bash
